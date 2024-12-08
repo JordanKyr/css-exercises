@@ -1,0 +1,21 @@
+.par1,
+.par3 { 
+    background-color: salmon;
+}
+
+.par3 {
+    font-size: 32px;
+}
+
+
+#DIV2 {
+background-color: white;
+color: blue;
+font-size: 32px;
+}
+
+#DIV4 {
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 22px;
+}
